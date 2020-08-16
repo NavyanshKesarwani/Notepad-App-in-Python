@@ -6,6 +6,7 @@ To make this project using Python, you're required to install the Tkinter librar
 ```bash
 pip install tkinter
 ```
+Apart from Tkinter, I have also used the 'os' library of Python, which is required to perform all the basic tasks that can be done on a basic application window like closing, minimizing etc. It is pre-installed in Python. So we just have to import it into our project.
 ## What does Tkinter do in this application
 Tkinter library is mainly used for making Graphical User Interfaces in Python. In this project, Tkinter library is used to create the window of the application, along with the the menu bar and the text area of the Notepad.
 
@@ -19,3 +20,5 @@ You can make this project in Python by entering the code provided in the main.py
 
 ### **Note:** *This whole project was made on Python v3.8.1.*
 ### *If you have any suggestions related to this project, feel free to add a pull request. For major changes, discuss it with me on [my email](navyanshtechnicalpoint001@gmail.com).*
+
+### **© 2020 Navyansh Kesarwani**
