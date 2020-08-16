@@ -13,3 +13,9 @@ Tkinter library is mainly used for making Graphical User Interfaces in Python. I
 You can make this project in Python by entering the code provided in the main.py file of this repository in any IDE that supports Python. After successfully entering the code, compile and run the code. The project window will open as soon as it gets executed.
 
 ## Some Images of The Project
+![Screenshot 1](https://github.com/NavyanshKesarwani/Notepad-App-in-Python/blob/master/snippets/1.JPG)
+![Screenshot 2](https://github.com/NavyanshKesarwani/Notepad-App-in-Python/blob/master/snippets/2.JPG)
+![Screenshot 3](https://github.com/NavyanshKesarwani/Notepad-App-in-Python/blob/master/snippets/3.JPG)
+
+### **Note:** *This whole project was made on Python v3.8.1.*
+### *If you have any suggestions related to this project, feel free to add a pull request. For major changes, discuss it with me on [my email](navyanshtechnicalpoint001@gmail.com).*
