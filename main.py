@@ -69,7 +69,7 @@ if __name__ == '__main__':
     #Basic tkinter setup
     root = Tk()
     root.title("Untitled - Notepad")
-    root.wm_iconbitmap("1.ico")
+    root.wm_iconbitmap("icon.ico")
     root.geometry("644x788")
 
     #Add TextArea
